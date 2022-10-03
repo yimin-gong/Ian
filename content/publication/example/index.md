@@ -1,12 +1,11 @@
 ---
-abstract: 555
+abstract: abstract
 author_notes:
 - Equal contribution
 - Equal contribution
 authors:
 - admin
-- 奥特曼
-date: "2022-06-01T00:00:00Z"
+date: "2022-04-01T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -21,7 +20,7 @@ publication_types:
 - "1"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: 555
+summary: summary
 tags: []
 title: An example conference paper
 url_code: ""

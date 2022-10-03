@@ -31,8 +31,6 @@ item:
     organization_url: https://www.cfainstitute.org/
     title: CFA level I (passed)
     url: ''
-    
-
 
 design:
   columns: '2'

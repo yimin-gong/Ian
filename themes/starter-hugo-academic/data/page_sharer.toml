@@ -3,10 +3,18 @@
 
 [[buttons]]
   id = "weixin"
-  url = "https://mp.weixin.qq.com/s/WbCIMcoSQ7TtooGLR47xpQ"
+  url = "https://mp.weixin.qq.com/"
   title = "weixin"
   icon_pack = "fab"
   icon = "weixin"
+  enable = true
+  
+[[buttons]]
+  id = "bilibili"
+  url = "https://www.bilibili.com/"
+  title = "bilibili"
+  icon_pack = "fab"
+  icon = "bilibili"
   enable = true
 
 [[buttons]]

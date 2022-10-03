@@ -1,49 +1,43 @@
 ---
-bio: My research interests include innovation, firm behavior and corporate governance
+bio: 我的研究兴趣包括创新、行为金融、公司金融等。
   matter.
 education:
   courses:
   - course: 博士🌈
     institution: 🙏
     year: 2023-
-  - course: Master's Degree in Economics
-    institution: Shandong University
+  - course: 经济学硕士
+    institution: 山东大学
     year: 2020-2023
-  - course: Bachelor in Economics
-    institution: Tianjin University of Finance and Economics
+  - course: 经济学学士
+    institution: 天津财经大学
     year: 2016-2020
 email: ""
 highlight_name: true
 interests:
-- Innovation
-- Firm Behavior
-- Corporate Governance
+- 创新
+- 行为金融
+- 公司金融
 organizations:
-- name: SDU
+- name: 山东大学
   url: https://www.sdu.edu.cn/
-role: Student of Finance
+role: 金融学硕士
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: twitter
+- icon: weixin
   icon_pack: fab
-  link: https://twitter.com/
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/
-- icon: github
+  link: https://mp.weixin.qq.com/s/WbCIMcoSQ7TtooGLR47xpQ
+- icon: bilibili
   icon_pack: fab
-  link: https://github.com/
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://space.bilibili.com/401028462
 superuser: true
-title: Yimin Gong (Ian)
+title: GYM
 ---
 
-Yimin Gong is a postgraduate student of School of Economics at Shandong University. His research interests include innovation, firm behavior and corporate governance. He participates in the Innovation Reading Club group, which studies corporate innovation.
+我是一名山东大学经济学院金融学专业硕士研究生，我的研究兴趣包括创新、行为金融、公司金融等。
 
-Don't Panic🐕🛹🌌
+慎独🐕🛹🌌
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

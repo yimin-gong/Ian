@@ -4,25 +4,9 @@
   
   
   <url>
-    <loc>/zh/tag/academic/</loc><lastmod>2022-08-04T09:28:44+08:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="/en/tag/academic/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="/zh/tag/academic/"
-    /></url>
+    <loc>/zh/tag/academic/</loc><lastmod>2022-08-04T09:28:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/zh/post/</loc><lastmod>2022-08-04T09:28:44+08:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="/en/post/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="/zh/post/"
-    /></url>
+    <loc>/zh/post/</loc><lastmod>2022-08-04T09:28:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/zh/tags/</loc><lastmod>2022-08-04T09:28:44+08:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
@@ -44,23 +28,9 @@
       href="/zh/"
     /></url>
   <url>
-    <loc>/zh/zh/</loc><lastmod>2022-08-04T09:28:44+08:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="/en/zh/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href="/zh/zh/"
-    /></url>
-  <url>
     <loc>/zh/post/2022-08-04-/</loc><lastmod>2022-08-04T09:28:44+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>/zh/zh/post/2022-08-04-/</loc><lastmod>2022-08-04T09:28:44+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>/zh/post/2022-06-05-/</loc><lastmod>2022-06-05T14:44:46+08:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>/zh/zh/post/2022-06-05-/</loc><lastmod>2022-06-05T14:44:46+08:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>/zh/categories/</loc><lastmod>2022-06-05T14:44:46+08:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
@@ -77,12 +47,14 @@
     <loc></loc><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href=""
+      href="/en/authors/"
     /><xhtml:link
       rel="alternate"
       hreflang="zh"
       href=""
     /></url>
+  <url>
+    <loc></loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>/zh/publication_types/</loc><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
@@ -92,14 +64,4 @@
       rel="alternate"
       hreflang="zh"
       href="/zh/publication_types/"
-    /></url>
-  <url>
-    <loc></loc><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="zh"
-      href=""
     /></url></urlset>

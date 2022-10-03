@@ -1,5 +1,5 @@
 ---
-bio: My research interests include innovation, firm behavior and corporate governance
+bio: My research interests include innovation, behavioral finance and corporate finance.
   matter.
 education:
   courses:
@@ -12,12 +12,12 @@ education:
   - course: Bachelor in Economics
     institution: Tianjin University of Finance and Economics
     year: 2016-2020
-email: ""
+email: "202010153@mail.sdu.edu.cn"
 highlight_name: true
 interests:
 - Innovation
-- Firm Behavior
-- Corporate Governance
+- Behavioral Finance
+- Corporate Finance
 organizations:
 - name: SDU
   url: https://www.sdu.edu.cn/
@@ -26,18 +26,12 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- icon: twitter
+- icon: weixin
   icon_pack: fab
-  link: https://twitter.com/
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/
-- icon: github
+  link: https://mp.weixin.qq.com/s/WbCIMcoSQ7TtooGLR47xpQ
+- icon: bilibili
   icon_pack: fab
-  link: https://github.com/
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://space.bilibili.com/401028462
 superuser: true
 title: Yimin Gong (Ian)
 ---

@@ -22,19 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 🏀
-    company: School Team
+  - title: Summer School in Applied Economics
+    company: UCAS
     company_url: ''
     company_logo:
     location: 
-    date_start: '2021-09-01'
-    date_end: '2022-01-01'
-    description: |2-
-        Responsibilities include:
+    date_start: '2022-07-11'
+    date_end: '2022-07-15'
+    
+
+
+#  - title: 🏀
+#    company: School Team
+#    company_url: ''
+#    company_logo:
+#    location: 
+#    date_start: '2021-09-01'
+#    date_end: '2022-01-01'
+#    description: |2-
+#        Responsibilities include:
         
-        * Sing
-        * Jump
-        * Rap
+#        * Sing
+#        * Jump
+#        * Rap
 
 
 design:
