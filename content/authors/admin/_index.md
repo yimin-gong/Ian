@@ -42,7 +42,7 @@ superuser: true
 title: Yimin Gong (Ian)
 ---
 
-Yimin Gong is a postgraduate student of School of Economics at Shandong University. His research interests include innovation, firm behavior and corporate governance. He participates in the Innovation Reading Club group, which studies corporate innovation.
+Yimin Gong is a postgraduate student of School of Economics at Shandong University. His research interests include innovation, behavioral finance and corporate finance.
 
 Don't Panic🐕🛹🌌
 
